@@ -6,5 +6,3 @@
 - 💬 Ask me about **threat intelligence, malware, Python, LLMs**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=deadbits&show_icons=true&theme=onedark&locale=en)
-
-![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=deadbits&)
