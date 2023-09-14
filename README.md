@@ -8,6 +8,7 @@
 [![Github](https://img.shields.io/github/followers/deadbits?label=Follow&style=social)](https://github.com/deadbits)
 
 🔭 I’m currently working on security for large language models
+
 📝 I write on:
 * https://deadbits.substack.com
 
