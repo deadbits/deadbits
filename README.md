@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.deadbits.org)](https://www.deadbits.org)
 [![Github](https://img.shields.io/github/followers/deadbits?label=Follow&style=social)](https://github.com/deadbits)
 
-🔭 I’m currently working on security for large language models
+🔭 I’m currently hacking on security for large language models
 
 📝 I sometimes write on:
 * https://deadbits.substack.com
